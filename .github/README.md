@@ -12,9 +12,9 @@ da Rocketseat.
 ## Tecnologias
 
 - HTML
--CSS
--GIT 
--GITHUB
+- CSS
+- GIT 
+- GITHUB
 
 ## Contato 
 
